@@ -1,4 +1,4 @@
 # pizza
 
 ## About me 
-* [GitHub Profile] (https://github.com/peterherr90)
+(https://github.com/peterherr90)
